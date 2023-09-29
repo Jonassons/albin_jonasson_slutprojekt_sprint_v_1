@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040434334168",
+    "project_id": "chatapp-61c09",
+    "storage_bucket": "chatapp-61c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040434334168:android:54c4de408ddef346984aad",
+        "android_client_info": {
+          "package_name": "com.albin.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXP7MNRIg5oLV27xeGUSwXlOBXiiptcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
